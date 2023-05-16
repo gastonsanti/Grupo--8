@@ -27,3 +27,6 @@ for i in range(8):
         print("No adivinaste, te quedan", intentos, "intentos")
     elif intentos == 0:
         print("Lo siento ya no le quedan intentos, el numero a adivinar era", azar)
+        
+
+#terminado
